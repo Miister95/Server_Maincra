@@ -1,0 +1,8 @@
+[
+	"minecraft:zombie-35-3-0",
+	"minecraft:zombie_villager-20-4-0",
+	"minecraft:zombie_horse-10-5-0",
+	"minecraft:husk-35-3-0",
+	"minecraft:drowned{HandItems:[{id:trident,Count:1}]}-10-6-0",
+	"minecraft:zombie_horse{Passengers:[{id:drowned,HandItems:[{id:trident,Count:1}]}]}-25-20-0"
+]
